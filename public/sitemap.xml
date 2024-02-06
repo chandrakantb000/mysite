@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/blog/second_blog/</loc>
+  </url><url>
+    <loc>/blog/first-blog/</loc>
+  </url><url>
+    <loc>/blog/</loc>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/tags/demo/</loc>
+  </url><url>
+    <loc>/tags/first/</loc>
+  </url><url>
+    <loc>/tags/profile/</loc>
+  </url><url>
+    <loc>/search/</loc>
+  </url><url>
+    <loc>/tags/start/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>

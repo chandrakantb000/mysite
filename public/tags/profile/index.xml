@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Profile on Chandrakant</title>
+    <link>/tags/profile/</link>
+    <description>Recent content in Profile on Chandrakant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demo Blog</title>
+      <link>/blog/second_blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/blog/second_blog/</guid>
+      <description>This is Demo blog Thanks for visiting my site btw this is my first blog. You may have a doubt what is the profile image, it is simple tree pic that I&amp;rsquo;ve clicked a long time ago and applied cyberpunk theme.</description>
+    </item>
+  </channel>
+</rss>
