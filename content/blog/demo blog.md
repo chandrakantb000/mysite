@@ -2,7 +2,7 @@
 title: "Demo Blog"
 datestring: 2024-02-03
 draft: false
-tags: ["Demo", "Profile"]
+tags: ["Demo", "First", "Profile"]
 weight: 107
 cover:
     image: ""
