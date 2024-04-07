@@ -3,7 +3,7 @@ title: "GitOps Task"
 datestring: 2024-03-12
 draft: false
 tags: ["Task", "ArgoCD", "Gitops"]
-weight: 107
+#weight: 107
 cover:
     image: ""
 ---
