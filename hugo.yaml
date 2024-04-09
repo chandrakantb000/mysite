@@ -53,7 +53,7 @@ params:
   profileMode:
     enabled: true
     title: "Chandrakant Borle"
-    subtitle: Hi 👋! I'm Chandrakant, currently I'm deep diving in the field of DevOps, Cloud. 
+    subtitle: Hi 👋! I'm Chandrakant, currently I'm deep diving in the field of DevOps, Cloud. Also if you've come here, you can checkout some fun blogs.
     imageUrl: "home/tree_c.jpg"
     imageWidth: 220
     imageHeight: 220

@@ -1,6 +1,6 @@
 ---
 title: "Github actions Task"
-datestring: 2024-02-22
+datestring: 2024-02-21
 draft: false
 tags: ["Task", "CICD", "Github_actions"]
 #weight: 107
