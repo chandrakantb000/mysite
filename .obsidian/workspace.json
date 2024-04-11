@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/cleaning_laptop.md",
-                "mode": "preview",
+                "file": "content/blog/Go_workshop.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/cleaning_laptop.md",
+                "file": "content/blog/Go_workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/cleaning_laptop.md",
+                "file": "content/blog/Go_workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/cleaning_laptop.md"
+                "file": "content/blog/Go_workshop.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "9af1e9c1c730be24",
   "lastOpenFiles": [
+    "content/blog/cleaning_laptop.md",
     "content/blog/demo blog.md",
     "content/blog/Github_actions_task.md",
     "content/blog/GitOps_task.md",
-    "content/blog/manga_blog.md",
-    "content/blog/cleaning_laptop.md"
+    "content/blog/manga_blog.md"
   ]
 }
