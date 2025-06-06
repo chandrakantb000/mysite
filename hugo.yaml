@@ -1,4 +1,4 @@
-baseURL: "https://nightfury000.github.io/mysite/"
+baseURL: "https://chandrakantb000.github.io/mysite/"
 languageCode: en-us
 title: Chandrakant
 theme: PaperMod
@@ -75,7 +75,7 @@ params:
     - name: "linkedin"
       url: "https://www.linkedin.com/in/chandrakant-borle-992046190"
     - name: "github"
-      url: "https://github.com/nightfury000"
+      url: "https://github.com/chandrakantb000"
     - name: "telegram"
       url: "https://t.me/nfyhecs"
     - name: "tryhackme"
