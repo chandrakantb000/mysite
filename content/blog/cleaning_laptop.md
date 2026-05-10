@@ -3,7 +3,7 @@ title: "Cleaning Laptop"
 datestring: 2024-03-15
 draft: false
 tags: ["laptop", "high_temp"]
-#weight: 
+#weight: 107
 cover:
     image: ""
 ---
