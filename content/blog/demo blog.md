@@ -10,6 +10,5 @@ cover:
 
 # This is Demo blog
 
-Thanks for visiting my site btw this is my first blog. You may have a doubt what is the profile image, it is simple tree pic that I've clicked a long time ago and applied cyberpunk theme. 
-Lorem Ipsum for testing.
+Thanks for visiting my site btw this is my first blog. You may have a doubt what is the profile image, it is simple tree pic that I've clicked a long time ago and applied cyberpunk theme. Lorem Ipsum for testing. New
 

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0e147a16918c8697",
+        "id": "757f90257779839e",
         "type": "tabs",
         "children": [
           {
-            "id": "9af1e9c1c730be24",
+            "id": "24439049fd74c84b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/Go_workshop.md",
+                "file": "content/blog/whats_next/whats_next.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "whats_next"
             }
           }
         ]
@@ -38,8 +40,13 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +61,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +71,12 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/Go_workshop.md",
+                "file": "content/blog/whats_next.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +107,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +118,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/Go_workshop.md",
+                "file": "content/blog/whats_next.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -115,8 +133,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/Go_workshop.md"
-              }
+                "file": "content/blog/whats_next.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -138,20 +165,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9af1e9c1c730be24",
+  "active": "24439049fd74c84b",
   "lastOpenFiles": [
+    "static/images for blogs/imback.jpg",
+    "static/images for blogs",
+    "content/blog/whats_next/cover.gif",
+    "content/blog/whats_next/excalidraw-animate-ezgif.com-svg-to-gif-converter.gif",
+    "content/blog/whats_next/imback.jpg",
+    "content/blog/whats_next/whats_next.md",
+    "content/blog/whats_next",
+    "Pasted image 20260911233023.png",
+    "README.md",
+    "Initial website.md",
+    "Drawing 2026-09-11 23.39.17.excalidraw.md",
     "content/blog/cleaning_laptop.md",
-    "content/blog/demo blog.md",
+    "content/blog/manga_blog.md",
+    "content/blog/Go_workshop.md",
+    "content/blog/What's next.md",
     "content/blog/Github_actions_task.md",
-    "content/blog/GitOps_task.md",
-    "content/blog/manga_blog.md"
+    "content/blog/demo blog.md",
+    "content/blog/GitOps_task.md"
   ]
 }
