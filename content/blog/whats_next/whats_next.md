@@ -8,7 +8,8 @@ tags:
 cover:
   image: ""
 ---
-![imback](static/images/imback.jpg)
+
+![imback](imback.jpg)
 ## Continuing with this site
 
 So for a long time this website felt deserted. It's been nearly about 2 years I wrote the last blog. So basically my plan is to add the tech blogs to this website. So I'm planning to make this as my main portfolio website which highlights my technical skills.
